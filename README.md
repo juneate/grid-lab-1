@@ -67,7 +67,7 @@ Write and style a sample `grid` layout to practice the applicable styling proper
     ```css
     grid-template-columns: 60% 40%;
     ```
-    #### OR
+    OR
     
     ```css
     grid-template-columns: 3fr 2fr;
