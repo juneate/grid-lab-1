@@ -93,7 +93,7 @@ Write and style a sample `grid` layout to practice the applicable styling proper
     
 12. Notice `grid-gap` add vertical and horizontal gap within the grid, but does not space the outside of the `.layout`. Also add `padding` (or `margin`, context dependant) to apply a "gap" around the grid that looks exactly like the gap inside the grid.
 
-    ```css
+    ``` css
     padding: 1em;
     ```
 
