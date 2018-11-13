@@ -29,7 +29,7 @@ Write and style a sample `grid` layout to practice the applicable styling proper
     .third { background-color: dodgerblue; }
     ```
 
-4. To the `div.layout`, add a single `<article>` child element with sample content in it ("lorem ipsum" or just a few words to test) and give it a class of `first`. *What does our output look like?*
+4. To the `.layout`, add a single `<article>` child element with sample content in it ("lorem ipsum" or just a few words to test) and give it a class of `first`. *What does our output look like?*
 
     ```html
     <article class="first">First!<article>
