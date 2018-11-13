@@ -44,7 +44,7 @@ Write and style a sample `grid` layout to practice the applicable styling proper
 
 6. To see how the `grid` differs from a standard `block` container, give the `.layout` some dimensions:
 
-    ```css
+    ```
     width: 50em;
     height: 30em;
     ```
